@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96228319984",
+    "project_id": "mobile-app-7c900",
+    "storage_bucket": "mobile-app-7c900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96228319984:android:c80db0a2d4660d6d5c1835",
+        "android_client_info": {
+          "package_name": "com.example.social_hobby_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96228319984-1ha6535sqtrboecak5gqdjcuqpb8p1sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuaH9XhRk6o0CwgXcBKp1DHjM6zpSBeV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96228319984-1ha6535sqtrboecak5gqdjcuqpb8p1sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

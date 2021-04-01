@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>96228319984-dr2kq0dk0kuppqvk98sgjd0jap8u7jgv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.96228319984-dr2kq0dk0kuppqvk98sgjd0jap8u7jgv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDIdO8mZgoucmv4YZYvRMF5Wihsry5YkNA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>96228319984</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.socialHobbyApp</string>
+	<key>PROJECT_ID</key>
+	<string>mobile-app-7c900</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mobile-app-7c900.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:96228319984:ios:f164aa79237d8aae5c1835</string>
+	<key>DATABASE_URL</key>
+	<string>https://mobile-app-7c900-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
